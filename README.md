@@ -17,12 +17,12 @@
 ![Javascript](https://img.shields.io/static/v1?label&message=Javascript&color=b1a016&style=for-the-badge&logo=javascript&logoColor=fff)
 ![Typescript](https://img.shields.io/static/v1?label&message=typescript&color=007ACC&style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/static/v1?label&message=react&color=29a1c2&style=for-the-badge&logo=react&logoColor=fff)
-![VueJS](https://img.shields.io/static/v1?label&message=vue&color=46ab7d&style=for-the-badge&logo=vue.js&logoColor=fff)
+![VueJS](https://img.shields.io/static/v1?label&message=vue&color=46ab7d&style=for-the-badge&logo=vue-dot-js&logoColor=fff)
 ![jQuery](https://img.shields.io/static/v1?label&message=jquery&color=0769AD&style=for-the-badge&logo=jquery&logoColor=fff)
 ![AngularJS](https://img.shields.io/static/v1?label&message=angularjs&color=E23237&style=for-the-badge&logo=angularjs&logoColor=fff)
 ![Angular](https://img.shields.io/static/v1?label&message=angular&color=DD0031&style=for-the-badge&logo=angular&logoColor=fff)
 ![Redux](https://img.shields.io/static/v1?label&message=redux&color=764ABC&style=for-the-badge&logo=redux&logoColor=fff)
-![NextJS](https://img.shields.io/static/v1?label&message=nextjs&color=000&style=for-the-badge&logo=next.js&logoColor=fff)
+![NextJS](https://img.shields.io/static/v1?label&message=nextjs&color=000&style=for-the-badge&logo=next-dot-js&logoColor=fff)
 ![Gatsby](https://img.shields.io/static/v1?label&message=gatsby&color=663399&style=for-the-badge&logo=gatsby&logoColor=fff)
 
 #### Backend
@@ -31,7 +31,7 @@
 ![LaravelLumen](http://img.shields.io/static/v1?label&message=lumen&color=E74430&style=for-the-badge&logo=lumen&logoColor=fff)
 ![MySQL](http://img.shields.io/static/v1?label&message=mysql&color=4479A1&style=for-the-badge&logo=mysql&logoColor=fff)
 ![PostgreSQL](http://img.shields.io/static/v1?label&message=postgresql&color=4479A1&style=for-the-badge&logo=postgresql&logoColor=fff)
-![NodeJS](http://img.shields.io/static/v1?label&message=nodejs&color=339933&style=for-the-badge&logo=node.js&logoColor=fff)
+![NodeJS](http://img.shields.io/static/v1?label&message=nodejs&color=339933&style=for-the-badge&logo=node-dot-js&logoColor=fff)
 ![MongoDB](http://img.shields.io/static/v1?label&message=mongodb&color=47A248&style=for-the-badge&logo=mongodb&logoColor=fff)
 
 #### Mobile
