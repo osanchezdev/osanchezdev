@@ -37,6 +37,7 @@
 #### Mobile
 ![Ionic](http://img.shields.io/static/v1?label&message=ionic&color=3880FF&style=for-the-badge&logo=ionic&logoColor=fff)
 ![ReactNative](https://img.shields.io/static/v1?label&message=react%20native&color=29a1c2&style=for-the-badge&logo=react&logoColor=fff)
+![Flutter](https://img.shields.io/static/v1?label&message=flutter&color=1389fd&style=for-the-badge&logo=react&logoColor=fff)
 
 #### Others
 ![Webpack](http://img.shields.io/static/v1?label&message=webpack&color=3a93be&style=for-the-badge&logo=webpack&logoColor=fff)
