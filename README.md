@@ -1,9 +1,7 @@
 # Hi there, i'm Oscar, let's build something great! 👋
 
 - 🔭 I’m currently working on ReactJS + NextJS.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on ReactJS.
-- 🤔 I’m looking for help with AWS.
+- 🌱 I’m currently learning about blockchain (truffle, solidity, web3, ethers).
 - 💬 Ask me about anything.
 
 ## Skills
